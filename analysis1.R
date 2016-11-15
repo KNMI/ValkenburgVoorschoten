@@ -14,7 +14,7 @@ mytheme <- theme_grey() +
 # (1) import and prepare the data 
 # (2) make monthly mean plots for relevant variables of both stations
 # (3) monthly mean differences for all relevant variables 
-# (4) Martins stupid comment
+# (4) Theo wants a different comment
 
 ###################################################################################################
 # (1) Import the hourly and daily data and prepare data
